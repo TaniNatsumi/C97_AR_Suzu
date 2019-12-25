@@ -5,7 +5,6 @@
 		"Textures": [
 			"C97_Suzu.2048/texture_00.png"
 		],
-		"Physics": "C97_Suzu.physics3.json",
 		"DisplayInfo": "C97_Suzu.cdi3.json"
 	},
 	"Groups": [
